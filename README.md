@@ -7,9 +7,4 @@ I'm Luís Pedro <br><br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lpodev/">LinkedIn</a>
 </p>
 
-<h1 align="center"> Stay awesome ! </h1>
-
-<p align="center">
-
-[![LPOdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPOdev)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<h1 align="center"> Be awesome ! </h1>
