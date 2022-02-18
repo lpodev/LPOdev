@@ -1,16 +1,15 @@
-### Hi there 👋
+[![image](./banner.png)](https://github.com/LPOdev)
+<h1 align="center">Hi!👋</h1>
 
-<!--
-**LPOdev/LPOdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Luís Pedro <br><br>
+- 🔭 I’m currently working on <a href = "https://github.com/LPOdev/SPLoks-PreTPI">SPLoks</a>, my application for the <i>Federal Professional Diploma Examination</i><br><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lpodev/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center"> Stay awesome ! </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+[![LPOdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPOdev)](https://github.com/anuraghazra/github-readme-stats)
+</p>
