@@ -3,7 +3,7 @@
 
 <p align="center">
 I'm Luís Pedro <br><br>
-- 🔭 I’m currently studying<br><br>
+- 🔭 I’m currently studying at CPNV<br><br>
   - 📫 How to reach me: <a href='https://linktr.ee/lpodev'>Links</a>, <a href="https://www.linkedin.com/in/lpodev/">LinkedIn</a> or <a href="mailto:lpodevco@gmail.com">Gmail</a>.
 </p>
 
