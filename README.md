@@ -1,8 +1,2 @@
-[![image](./banner.png)](https://github.com/LPOdev)
-<h1 align="center">Hi there!👋</h1>
-
-<p align="center">
-	I'm Luís Pedro,<br><br>
-  🔭 I’m currently studying Applications developpement at CPNV.<br><br>
-  📫 How to reach me: <a href='https://linktr.ee/lpodev'>Links</a>, <a href="https://www.linkedin.com/in/lpodev/">LinkedIn</a> or <a href="mailto:lpodevco@gmail.com">Gmail</a>.
-</p>
+![Luís Pedro Pinheiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpodev&count_private=true&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpodev&count_private=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
